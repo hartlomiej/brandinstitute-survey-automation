@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar elements %3D document.querySelectorAll('input%5Bvalue%3D"N"%5D%2C input%5Bvalue%3D"2"%5D')%3Bfor (var i %3D 0%2C len %3D elements.length%3B i < len%3B i%2B%2B)elements%5Bi%5D.click()%7D)()
